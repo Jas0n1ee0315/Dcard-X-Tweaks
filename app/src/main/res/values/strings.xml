@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dcard X Tweaks</string>
+    <string name="xposed_description">移除 Dcard X 的所有廣告：開屏廣告、看板列表廣告、文章內與留言區廣告、品牌活動（Mercury）區塊；並自動展開被系統隱藏的留言</string>
+</resources>
